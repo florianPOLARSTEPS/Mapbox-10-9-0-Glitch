@@ -6,3 +6,7 @@ This repository sample app demonstrates an issue when providing dynamically gene
 - Run a debug build and just let the app run and animate/update the map.
 
 # Proof
+
+
+https://user-images.githubusercontent.com/21218132/199194348-bbb579eb-eb51-4066-836f-2bc83036237c.mp4
+
