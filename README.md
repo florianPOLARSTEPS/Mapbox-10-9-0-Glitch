@@ -1,4 +1,4 @@
-# MapboxOfflineDemo
+# MapboxGlitchDemo
 This repository sample app demonstrates an issue when providing dynamically generated images for symbols.
 
 # Usage
